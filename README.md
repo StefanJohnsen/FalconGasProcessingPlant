@@ -85,5 +85,3 @@ Use it for **CAD development, benchmarking, digital twins, game development, VR/
 If Falcon Gas Processing Plant is useful to you, please consider **starring this repository and sharing it with others** who might find it useful.
 
 It costs nothing and helps other developers discover the project.
-
-**If this model saves you time, star it and help it reach the next developer who needs it.**
