@@ -2,10 +2,6 @@
 
 ![Falcon Gas Processing Plant](images/Welcome.png)
 
-## Falcon Gas Processing Plant in Blender
-
-![Falcon Gas Processing Plant shown in the Blender application](images/FalconGasPlant.jpg)
-
 ## A Free Large-Scale Industrial 3D Dataset
 
 **Falcon Gas Processing Plant** is a large, completely fictional industrial gas processing facility created for **CAD development, benchmarking, performance testing, visualization, simulation, and game development**.
