@@ -8,7 +8,49 @@ With approximately **53 million triangles** and **36 million vertices**, the mod
 
 The same plant is available in multiple formats:
 
-**Blender · FBX · OBJ · GLB**
+**Blender · FBX · OBJ · GLB · NWD · RVM**
+
+## Downloads
+
+Download the model files from the latest GitHub release:
+
+### Blender
+
+Native Blender source files.
+
+[Download FalconGasPlant.blend.zip](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/latest/download/FalconGasPlant.blend.zip)
+
+### FBX
+
+FBX export for DCC tools, game engines, converters, and general 3D pipelines.
+
+[Download FalconGasPlant.fbx.zip](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/latest/download/FalconGasPlant.fbx.zip)
+
+### OBJ
+
+Triangle-only OBJ export with matching material files.
+
+[Download FalconGasPlant.obj.zip](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/latest/download/FalconGasPlant.obj.zip)
+
+### GLB
+
+Binary glTF export for viewers, web rendering, engines, and compact 3D delivery.
+
+[Download FalconGasPlant.glb.zip](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/latest/download/FalconGasPlant.glb.zip)
+
+### NWD
+
+Navisworks published model file.
+
+[Download FalconGasPlant.nwd.zip](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/latest/download/FalconGasPlant.nwd.zip)
+
+### RVM
+
+RVM export for plant design and industrial model workflows.
+
+[Download FalconGasPlant.rvm.zip](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/latest/download/FalconGasPlant.rvm.zip)
+
+All release files are available on the [GitHub Releases page](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases).
 
 ## Why I created it
 
