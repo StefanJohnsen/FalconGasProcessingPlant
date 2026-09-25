@@ -1,0 +1,3 @@
+# Ignore all directories and zip archives in this repo.
+*/
+*.zip

@@ -1,0 +1,5 @@
+# Use normalized line endings for text files.
+* text=auto
+
+# Treat archives as binary if they are ever explicitly tracked.
+*.zip binary
