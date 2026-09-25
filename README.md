@@ -1,5 +1,7 @@
 # Falcon Gas Processing Plant
 
+![Falcon Gas Processing Plant welcome image](images/Welcome.png)
+
 ## A Free Large-Scale Industrial 3D Dataset
 
 **Falcon Gas Processing Plant** is a large, completely fictional industrial gas processing facility created for **CAD development, benchmarking, performance testing, visualization, simulation, and game development**.
