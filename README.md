@@ -20,25 +20,27 @@ Download the model files from the GitHub release page for each format:
 
 Native Blender source files.
 
-[Open Blender release](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/blend)
+[Download Blender files](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/blend)
 
 ### FBX
 
 FBX export for DCC tools, game engines, converters, and general 3D pipelines.
 
-[Open FBX release](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/fbx)
+[Download FBX files](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/fbx)
 
 ### OBJ
 
 Triangle-only OBJ export with matching material files.
 
-[Open OBJ release](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/obj)
+[Download OBJ files](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/obj)
 
 ### GLB
 
 Binary glTF export for viewers, web rendering, engines, and compact 3D delivery.
 
-[Open GLB release](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/glb)
+[Download GLB files](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases/tag/glb)
+
+## All Releases
 
 All release files are available on the [GitHub Releases page](https://github.com/StefanJohnsen/FalconGasProcessingPlant/releases).
 
