@@ -1,3 +1,14 @@
-# Ignore all directories and zip archives in this repo.
-*/
+# Ignore generated model directories.
+blend/
+fbx/
+glb/
+nwd/
+obj/
+rvm/
+
+# Keep README images in the repository.
+!images/
+!images/*.png
+
+# Ignore zip archives.
 *.zip

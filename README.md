@@ -1,6 +1,6 @@
 # Falcon Gas Processing Plant
 
-![Falcon Gas Processing Plant welcome image](images/Welcome.png)
+![Falcon Gas Processing Plant](images/Welcome.png)
 
 ## A Free Large-Scale Industrial 3D Dataset
 
